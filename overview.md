@@ -17,3 +17,8 @@ I like to think I am dedicated or at least hard-working.
 I sometimes face the challenge of taking work and profession personally. This mostly means that I will likely work after hours to help the team or to ensure that my work is top notch, but sometimes it means I get frustrated when people waste each others time. We all have lives to go home to.
 
 Some people say it is difficult to get to know me. Don't worry this is just because I am private, reserved, and self-conscious. More of a "it's me not you" situation. Get past that and we will likely be best pals.
+
+___
+
+
+Go to [Eggs](eggs.md) to read more little known facts about me or head back to the [README](README.md)
