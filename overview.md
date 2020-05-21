@@ -6,7 +6,7 @@ How and why I might be the way I am.
 
 - My belief that people are inherently good, or just misunderstood, often makes me a bit of an idealist and causes me to stick my neck out for folks.
 
-- - I can talk a lot in meetings, but prefer democracy whenever possible.
+- I can talk a lot in meetings, but prefer democracy whenever possible.
 
 - My favorite quote is "live-and-let-live", who likes rules anyways.
 
