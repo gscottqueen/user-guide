@@ -23,4 +23,4 @@ How and why I might be the way I am.
 ___
 
 
-Go to [Eggs](eggs.md) to read more little known facts about me or head back to the [README](README.md)
+Go to [Little Known Facts About Me](eggs.md) to read more little known facts about me or head back to the [README](README.md)
