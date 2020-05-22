@@ -31,7 +31,7 @@ Worked as a Digital Media Manager for a Design museum in North Carolina known as
 - still one of my favorite places to have worked
 - Used to sneak into the registrar area to see all the work that was not on display
 
-> Febuarish, 2016
+> Februarish, 2016
 ## Project Manager
 Convinced Carla and Jose Briceno it would be a good idea to hire me at Bixal as a digital driver of success.
 
