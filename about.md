@@ -49,7 +49,7 @@ I took some time off to be about that #DadLife, and now I have two girls, Gwynet
 ```
 
 ## Present
-Back at Bixal full-time, learning more about Drupal, full-stack Javascript, and  software development.
+Back at Bixal full-time, learning more about full-stack Javascript and Design Systems.
 
 ___
 
