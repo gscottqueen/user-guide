@@ -45,11 +45,14 @@ After a bit of time at General Assembly learning more about Front End Developmen
 
 ```
 #DadLife
-I took some time off to be about that #DadLife, and now I have two girls, Gwyneth (2yrs) and Olivia (newborn). The world is much different now, and I am 100% ok with it. They are the coolest thing I have ever done, and I live for spending time with them.
+I took some time off to be about that #DadLife, and now I have two girls, Gwyneth (2.5yrs) and Olivia (8mo). The world is much different now, and I am 100% ok with it. They are the coolest thing I have ever done, and I live for spending time with them.
 ```
+> Durring Covid 19
+## Senior Front End Developer
+Spending most of my working hours getting really, really good at React, Gatsby, JS, somewhat good at Angular, Typescript, and Webpack. Building side projects like Maker Radio and new sculptures for public spaces.
 
-## Present
-Back at Bixal full-time, learning more about full-stack Javascript and Design Systems.
+## Current State
+At Bixal full-time, learning more about full-stack Javascript and Design Systems.
 
 ___
 
