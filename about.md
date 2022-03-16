@@ -40,7 +40,7 @@ Convinced Carla and Jose Briceno it would be a good idea to hire me at Bixal as 
 - can still remember when the office only had about 8 people
 
 > Winter of 2017
-## Web Developer
+## Software Developer
 After a bit of time at General Assembly learning more about Front End Development, I focused some effort working on presentation level work within Drupal. More recently have tried for deeper understanding of the broader application effort and tech stack.
 
 ```
@@ -49,11 +49,11 @@ I took some time off to be about that #DadLife, and now I have two girls, Gwynet
 ```
 
 > Durring Covid 19
-## Senior Front End Developer
+## Tech Lead
 Spending most of my working hours getting really, really good at React, Gatsby, JS, somewhat good at Angular, Typescript, and Webpack. Building side projects like Maker Radio and new sculptures for public spaces.
 
 ## Current State
-At Bixal full-time, learning more about full-stack Javascript and Design Systems.
+Returning back to my true self, working with code and aesthetics to create new works of art.
 
 ___
 
