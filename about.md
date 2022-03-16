@@ -45,7 +45,7 @@ After a bit of time at General Assembly learning more about Front End Developmen
 
 ```
 #DadLife
-I took some time off to be about that #DadLife, and now I have two girls, Gwyneth (2.5yrs) and Olivia (8mo). The world is much different now, and I am 100% ok with it. They are the coolest thing I have ever done, and I live for spending time with them.
+I took some time off to be about that #DadLife, and now I have two girls. The world is much different now, and I am 100% ok with it. They are the coolest thing I have ever done, and I live for spending time with them.
 ```
 
 > Durring Covid 19
