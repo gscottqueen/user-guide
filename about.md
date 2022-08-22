@@ -29,19 +29,20 @@ The first full-time gig I had out of college was designing and developing sites 
 Worked as a Digital Media Manager for a Design museum in North Carolina known as The Mint Museum.
 
 - still one of my favorite places to have worked
+- Oversaw the digitization of artworks, contemporary installations, and nex-gen social platforms
 - Used to sneak into the registrar area to see all the work that was not on display
 
 > Februarish, 2016
 ## Project Manager
-Convinced Carla and Jose Briceno it would be a good idea to hire me at Bixal as a digital driver of success.
+Convinced the owners of [Bixal](https://www.bixal.com/) it would be a good idea to hire me as a digital driver of success.
 
 - got a PMP, did some good project work, and way too many excel spreadsheets
-- ultimately wanted to be more involved with code
+- ultimately wanted to drive product success through technical leadership
 - can still remember when the office only had about 8 people
 
 > Winter of 2017
 ## Software Developer
-After a bit of time at General Assembly learning more about Front End Development, I focused some effort working on presentation level work within Drupal. More recently have tried for deeper understanding of the broader application effort and tech stack.
+After a bit of time at General Assembly learning more about Front End Development, I focused some effort working on presentation level work within Drupal CMS. More recently my focus has been for deeper understanding of the broader application design and tech integration.
 
 ```
 #DadLife
@@ -50,10 +51,10 @@ I took some time off to be about that #DadLife, and now I have two girls. The wo
 
 > Durring Covid 19
 ## Tech Lead
-Spending most of my working hours getting really, really good at React, Gatsby, JS, somewhat good at Angular, Typescript, and Webpack. Building side projects like Maker Radio and new sculptures for public spaces.
+Spending most of my working hours getting really, really good at React, Gatsby, JS, somewhat good at Angular, Typescript, and Webpack.
 
 ## Current State
-Returning back to my true self, working with code and aesthetics to create new works of art.
+Returning back to my true self, working with code and aesthetics to create works of art in new media and research.
 
 ___
 
