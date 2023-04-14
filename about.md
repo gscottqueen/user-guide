@@ -29,7 +29,7 @@ The first full-time gig I had out of college was designing and developing sites 
 Worked as a Digital Media Manager for a Design museum in North Carolina known as The Mint Museum.
 
 - still one of my favorite places to have worked
-- Oversaw the digitization of artworks, contemporary installations, and nex-gen social platforms
+- Oversaw the digitization of artworks, contemporary installations, and next-gen social platforms
 - Used to sneak into the registrar area to see all the work that was not on display
 
 > Februarish, 2016
@@ -46,10 +46,10 @@ After a bit of time at General Assembly learning more about Front End Developmen
 
 ```
 #DadLife
-I took some time off to be about that #DadLife, and now I have two girls. The world is much different now, and I am 100% ok with it. They are the coolest thing I have ever done, and I live for spending time with them.
+I took some time off to be about that #DadLife, and now I have two girls. The world is much different now, and I am 100% ok with it. They are the coolest thing I have ever done, and I live to spend time with them.
 ```
 
-> Durring Covid 19
+> During Covid 19
 ## Tech Lead
 Spent most of my working hours getting really, really good at React, Gatsby, JS, somewhat good at Angular, Typescript, and Webpack.
 
@@ -62,3 +62,4 @@ ___
 
 
 Go to [Overview](overview.md) or head back to the [README](README.md)
+
