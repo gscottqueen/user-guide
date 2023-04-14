@@ -8,7 +8,7 @@ How and why I might be the way I am.
 
 - I can talk a lot in meetings, but prefer democracy whenever possible.
 
-- My favorite quote is "live-and-let-live", who likes rules anyways.
+- My new favorite quote is “People have only as much liberty as they have the intelligence to want and the courage to take.” -Emma Goldman
 
 - Perhaps my creative background helps me connect the odd dots, I am getting pretty darn good at debugging code.
 
@@ -16,7 +16,7 @@ How and why I might be the way I am.
 
 ## Everyone has weaknesses, I am no different
 
-- I sometimes face the challenge of taking work and profession personally. This mostly means that I will likely work after hours to help the team or to ensure that my work is top notch, but sometimes it means I get frustrated when people waste each others time. We all have lives to go home to.
+- I no longer take work personally. After years of engineering I've realized that we are all just trying to solve problems, but at some point we need a person who can make the decisions.
 
 - Some people say it is difficult to get to know me. Don't worry this is just because I am private, reserved, and self-conscious. More of a "it's me not you" situation. Get past that and we will likely be best pals.
 
