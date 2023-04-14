@@ -51,10 +51,12 @@ I took some time off to be about that #DadLife, and now I have two girls. The wo
 
 > Durring Covid 19
 ## Tech Lead
-Spending most of my working hours getting really, really good at React, Gatsby, JS, somewhat good at Angular, Typescript, and Webpack.
+Spent most of my working hours getting really, really good at React, Gatsby, JS, somewhat good at Angular, Typescript, and Webpack.
 
 ## Current State
-Returning back to my true self, working with code and aesthetics to create works of art in new media and research.
+Splitting my time between, working with code and aesthetics to create expressive works of art in new media research and developing modern JS applications for the web.
+
+Check out some of my creative work at [gscottqueen.art](https://www.gscottqueen.art/)
 
 ___
 
